@@ -1,0 +1,21 @@
+.errors{
+    background-color: var(--color4);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.errors section{
+    max-width: 90%;
+    margin: auto;
+    /* display: flex;
+    flex-direction: column; */
+    text-align: center;
+}
+.errors section img{
+    height: 60vh;
+}
+.errors section p{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}

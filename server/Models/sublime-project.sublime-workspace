@@ -1,0 +1,864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"cha",
+				"chars"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"Mo",
+				"MovieType"
+			],
+			[
+				"US",
+				"UserType"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"user",
+				"userLiked"
+			],
+			[
+				"movie",
+				"movieId"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"f",
+				"findMovie"
+			],
+			[
+				"Gra",
+				"GraphQLBoolean"
+			],
+			[
+				"bo",
+				"boolean"
+			],
+			[
+				"use",
+				"userDislike"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"Disl",
+				"Dislike"
+			],
+			[
+				"ags",
+				"args"
+			],
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"GR",
+				"GraphQLInt"
+			],
+			[
+				"Li",
+				"Like"
+			],
+			[
+				"Dis",
+				"Dislike"
+			],
+			[
+				"Lik",
+				"Like"
+			],
+			[
+				"dele",
+				"deleteOne"
+			],
+			[
+				"fi",
+				"findOne"
+			],
+			[
+				"Di",
+				"Dislike"
+			],
+			[
+				"di",
+				"dislikeExist"
+			],
+			[
+				"li",
+				"likeExist"
+			],
+			[
+				"dis",
+				"dislike.js"
+			],
+			[
+				"mov",
+				"movieId"
+			],
+			[
+				"DIs",
+				"DisLikeModel"
+			],
+			[
+				"LI",
+				"LikeModel"
+			],
+			[
+				"r",
+				"require"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"lo",
+				"lodash"
+			],
+			[
+				"rc",
+				"ReadPreference"
+			],
+			[
+				"Use",
+				"UserType"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"Comm",
+				"CommentType"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"Comme",
+				"Comment"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ve",
+				"verify"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"au",
+				"authorization"
+			],
+			[
+				"js",
+				"jsonwebtoken"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"si",
+				"sign"
+			],
+			[
+				"compa",
+				"compare"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"ha",
+				"hash"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"m",
+				"movieId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"repl",
+				"replaceOne"
+			],
+			[
+				"Mov",
+				"Movie"
+			],
+			[
+				"cl",
+				"client/"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"Gha",
+				"GraphQLList"
+			],
+			[
+				"M",
+				"MovieSchemas"
+			],
+			[
+				"Movie",
+				"MovieSchemas"
+			],
+			[
+				"mua",
+				"mutation"
+			],
+			[
+				"q",
+				"query.js"
+			],
+			[
+				"U",
+				"UserAndMovieType.js"
+			],
+			[
+				"mu",
+				"mutation"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"gra",
+				"graphql"
+			],
+			[
+				"GraphQLS",
+				"GraphQLString"
+			],
+			[
+				"Graph",
+				"GraphQLList"
+			],
+			[
+				"GRA",
+				"GraphQLNonNull"
+			],
+			[
+				"expr",
+				"express-graphql"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ro",
+				"router.js"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"Rou",
+				"Router"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"S",
+				"Schemas/"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"p",
+				"port"
+			],
+			[
+				"cos",
+				"const"
+			],
+			[
+				"c",
+				"companyId"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"USe",
+				"USERS"
+			],
+			[
+				"GraphQLI",
+				"GraphQLInt"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"G",
+				"GraphQLObjectType"
+			],
+			[
+				"ex",
+				"expressGraphQl"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"ema",
+				"emails"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"Telephone"
+			],
+			[
+				"set",
+				"setModalContentOnStore"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"do",
+				"documents"
+			],
+			[
+				"ge",
+				"generalInfos"
+			],
+			[
+				"clie",
+				"clients"
+			],
+			[
+				"actions",
+				"modalActions"
+			],
+			[
+				"setMod",
+				"setModalOnStore"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"uni",
+				"unique_id"
+			],
+			[
+				"hos",
+				"hostname"
+			],
+			[
+				"db",
+				"db_config"
+			],
+			[
+				"my",
+				"myquery"
+			],
+			[
+				"h",
+				"host"
+			],
+			[
+				"usr",
+				"user_id"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"auth",
+				"authorization"
+			],
+			[
+				"ye",
+				"yellow"
+			],
+			[
+				"fa",
+				"faculty.js"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"H",
+				"Host"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"u",
+				"user.js"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"le",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"View Package File"
+			],
+			[
+				"Emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+			"clear",
+			"which node",
+			"which prettier",
+			"which node"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Front end/reactJs/Freelance/France-assist/France-assist-Admin"
+	],
+	"file_history":
+	[
+		"/C/Front end/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/default/form.css",
+		"/C/Front end/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/modals.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/routes/admin.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/routes/users.js",
+		"/C/Front end/reactJs/Freelance/France-assist/France-assist-client/src/RoutesSubComponents/document.js",
+		"/C/Front end/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/mutation.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/query.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/UserAndMovieType.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/database/movie.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/database/likeAndDislike.js",
+		"/C/Full stack/GraphQL-Movie/server/Models/likeAndDislike.js",
+		"/C/Full stack/graphql/schemas/schema.js",
+		"/C/Full stack/GraphQL-Movie/server/Models/like.js",
+		"/C/Full stack/GraphQL-Movie/server/Models/dislike.js",
+		"/C/Full stack/GraphQL-Movie/server/server.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/database/comment.js",
+		"/C/Full stack/GraphQL-Movie/client/node_modules/yargs/lib/platform-shims/esm.mjs",
+		"/C/Full stack/GraphQL-Movie/server/Models/comment.js",
+		"/C/Full stack/GraphQL-Movie/server/package.json",
+		"/C/wamp64/www/portfolio/src/Assets/css/accueil.css",
+		"/C/wamp64/www/portfolio/src/Assets/css/app.css",
+		"/C/wamp64/www/portfolio/src/index.js",
+		"/C/wamp64/www/portfolio/src/Assets/css/apropos.css",
+		"/C/wamp64/www/portfolio/src/Routes/Apropos.js",
+		"/C/wamp64/www/portfolio/src/Assets/css/competence.css",
+		"/C/wamp64/www/portfolio/src/Routes/Accueil.js",
+		"/C/wamp64/www/portfolio/src/Routes/Contact.js",
+		"/C/wamp64/www/portfolio/src/Routes/Competences.js",
+		"/C/wamp64/www/portfolio/src/Assets/css/travaux.css",
+		"/C/wamp64/www/portfolio/src/App.css",
+		"/C/wamp64/www/portfolio/src/Routes/Travaux.js",
+		"/C/Users/Evans/Documents/CVcoded/CV-EV-Black/index.html",
+		"/C/Full stack/GraphQL-Movie/server/router.js",
+		"/C/Full stack/Stuud/Models/auth.js",
+		"/C/Full stack/Stuud/client/src/Store/reducers/authReducers.js",
+		"/C/Full stack/GraphQL-Movie/server/middleware.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/database/user.js",
+		"/C/Full stack/GraphQL-Movie/index.js",
+		"/C/Full stack/GraphQL-Movie/package.json",
+		"/C/Full stack/Stuud/package.json",
+		"/C/Full stack/GraphQL-Movie-Coach/server/server.js",
+		"/C/Full stack/GraphQL-Movie-Coach/client/index.html",
+		"/C/Full stack/GraphQL-Movie-Coach/client/index.js",
+		"/C/Full stack/GraphQL-Movie/client/index.html",
+		"/C/Full stack/GraphQL-Movie-Coach/webpack.config.js",
+		"/C/Full stack/GraphQL-Movie-Coach/index.js",
+		"/C/Full stack/GraphQL-Movie/server/Models/movie.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/index.js",
+		"/C/Full stack/GraphQL-Movie/server/Models/user.js",
+		"/C/Full stack/GraphQL-Movie-Coach/server/schema/root_query_type.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/userType.js",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/graphQL/movieType.js",
+		"/C/Full stack/graphql/server.js",
+		"/C/Full stack/GraphQL-Movie/.env",
+		"/C/Full stack/GraphQL-Movie/server/Schemas/database",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/models/Transaction.js",
+		"/C/Full stack/GraphQL-Movie/server/.env",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/database.js",
+		"/C/Full stack/graphql/db.json",
+		"/C/Users/Evans/Documents/CVcoded/CV-EV-Black/css/index.css",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/server.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/dashboard.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/routes/note.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/routes/transaction.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/modals.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/ressources.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/public/index.html",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/client.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/accueil.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/documents.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/alertes.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/notes.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client/transactions.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/build/index.html",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/RoutesSubComponents/client.js",
+		"/C/wamp64/www/portfolio/public/index.html",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-client/src/RoutesSubComponents/document.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-client/src/Routes/Documents.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Store/reducers/axiosReducer.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/public/index.html",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/databases/query.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/user.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/databases/index.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/GlobalComponents/Navigation/Navbar.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Routes/Notification.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/App.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/GlobalComponents/Modal.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/middleware.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/app.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/default/modal.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/dashboard.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/default/form.css",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/styles/profil.css",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/server.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/auth.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/package.json",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-Admin/src/Assets/js/scroll.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Procfile",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/Rawdata/fakeData.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/Rawdata/rawData.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/serviceWorker.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/GlobalComponents/auth.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/GlobalComponents/navBar.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/client/src/Store/reducers/axiosReducer.js",
+		"/C/Users/Evans/Desktop/reactJs/Freelance/France-assist/France-assist-client/src/Hooks/authHooks.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/.env",
+		"/C/Users/Evans/Documents/ASUS/france_assist/package.json",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Controllers/routes/courses.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Controllers/routes/User.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Controllers/routes/Auth.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Controllers/routes/University.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Controllers/routes/Faculty.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/university.js",
+		"/C/Users/Evans/Desktop/Node Js/Stuud/Models/mailUtil.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist/server.js",
+		"/C/Users/Evans/Documents/ASUS/france_assist_dash/client/src/component/Clients/Email/AddMail.js",
+		"/C/wamp64/www/Ahime_POO/Modeles/Requete.php",
+		"/C/wamp64/www/Ahime_POO/Modeles/Managers/produitManager.php",
+		"/C/Users/Evans/Desktop/reactJs/Travail/New/Test/src/RouteSubcomponents/home.js",
+		"/C/Users/Evans/Desktop/reactJs/Travail/New/Test/src/Assets/styles/app.css",
+		"/C/Users/Evans/Desktop/reactJs/My projects/Stuud/src/Assets/styles/app.css",
+		"/C/Users/Evans/Desktop/reactJs/My projects/Stuud/src/App.js",
+		"/C/Users/Evans/Desktop/reactJs/My projects/Stuud/src/Routes/Accueil.js",
+		"/C/Users/Evans/Desktop/reactJs/base/src/GlobalComponents/modal.js",
+		"/C/Users/Evans/Desktop/reactJs/France-assist/src/Assets/css/materialdesignicons.min.css",
+		"/C/Users/Evans/Desktop/GDA/GDA-Agence/src/Assets/styles/materialdesignicons.min.css",
+		"/C/Users/Evans/Documents/ASUS/france_assist/api/stripe-functions.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 319.0,
+		"where_history":
+		[
+			"C:\\Users\\Evans\\Documents\\ASUS\\france_assist\\client\\src,<project filters>",
+			"C:\\Users\\Evans\\Documents\\ASUS\\france_assist_dash\\client\\src,<project filters>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"react-scripts",
+			".destroy",
+			".end",
+			"destroy",
+			"end",
+			"random",
+			"con",
+			"isCreditCard",
+			"useStripe",
+			"Mes doc",
+			"Mes clients",
+			"router",
+			"mailToken"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js",
+			".end",
+			".destroy",
+			"end",
+			"destroy",
+			"mysqlConnexion"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 109.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 257.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

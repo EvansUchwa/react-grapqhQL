@@ -1,0 +1,146 @@
+:root {
+  --color1: #247B91;
+  --color2: #D3B3A3;
+  --c2d1: #E6DBD4;
+  /* d82466 */
+  --color3: #455a64;
+  --color4: #263238;
+  --colorBgw: #f1f1f1;
+}
+@font-face {
+  font-family: "Raleway-Medium";
+  src: url("../fonts/Raleway-Medium.ttf");
+}
+body {
+  font-family: "Raleway-Medium";
+}
+b,h1,h2,h3,h4{
+  font-family: "Raleway-Medium";
+}
+p,span,i,label,b,h1,h2,h3,h4,h5{
+  color: var(--color4);
+}
+button {
+  border-radius: 10px;
+}
+input,
+select {
+  border-radius: 10px;
+}
+*{
+  box-sizing: border-box !important;
+}
+i,label{
+  cursor: pointer;
+}
+/* Nav */
+h1{
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+
+nav{
+  background-color: var(--color1);
+  padding: 20px 5%;
+  display: flex;
+  align-items: center;
+}
+.navLogo{
+  font-size: 5vh;
+}
+.navAuth{
+  margin-left: auto;
+}
+.navAuth > span,.navDisconnect > i{
+  font-size: 5vh;
+}
+.navDisconnect{
+  margin-left: 20px;
+}
+
+
+.myDropdown{
+  position: relative;
+}
+.myDropdown-title{
+  cursor: pointer;
+  background-color: transparent;
+
+}
+.myDropdown-items{
+  top: 120%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  /* background-color: var(--cwd1); */
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: white;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all .5s;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+.mdt-letter{
+  /* width: 30px;
+  height: 30px; */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+  background-color: var(--ow2);
+  padding: 10px 15px;
+  border-radius: 10px;
+  /* border-radius: 100%; */
+  /* line-height: 30px; */
+  text-align: center;
+}
+.myDropdown-items > div a,.myDropdown-items > div span{
+  color: grey;
+  padding: 10px 15px;
+}
+.myDropdown-items-visible{
+  opacity: 1;
+  max-height: 250px;
+  overflow: initial;
+}
+
+/*  */
+.addStatusAndLink{
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.addStatusAndLink b{
+  font-size: 2vmin;
+  color: var(--color4);
+}
+.addStatusAndLink a{
+  color: var(--color1);
+}
+.floatedBtn{
+  position: fixed;
+  bottom: 20px;
+}
+.floatedBtn a{
+  background-color: var(--color1);
+  color: white;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 50px;
+  text-align: center;
+  border-radius: 100%;
+}
+@media screen and (max-width: 512px) {
+  .nav-pcLinks{
+    display: none;
+  }
+  .nav-auth {
+    margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 512px) and (max-width: 768px){
+
+}

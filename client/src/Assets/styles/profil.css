@@ -1,0 +1,87 @@
+.profil{
+    margin: 50px 0;
+}
+
+.profil-infos_posts{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+width: 80%;
+margin: auto;
+
+}
+.pip-infos{
+    padding: 50px 0;
+display: flex;
+align-items: center;
+flex-direction: column;
+width: 30%;
+/* background-color: var(--cwd3); */
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.pip-infos img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+.pip-infos h2{
+    margin-bottom: 10px;
+    font-size: 5vmin;
+}
+.pip-infos p{
+    margin-bottom: 10px;
+}
+.pip-infos p b{
+    color: var(--color1);
+}
+.pip-infos section{
+    display: flex;
+    gap: 10px;
+}
+.pip-infos span,.pip-infos a{
+    padding: 10px 15px;
+    background-color: var(--color1);
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.pip-posts{
+    width: 60%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 50px 0;
+}
+.pip-posts > div p{
+    text-align: center;
+}
+.pip-posts  b{
+    margin: 0 auto 25px auto;
+    display: block;
+    text-align: center;
+    font-size: 4vmin;
+}
+.pip-posts  > div{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.pip-posts article{
+}
+
+@media screen and (max-width: 512px) {
+    .profil-infos_posts{
+        width: 95%;
+    }
+    .pip-infos{
+        width: 90%;
+    }
+    .pip-infos img{
+    }
+    .pip-posts{
+        width: 90%;
+    }
+  }

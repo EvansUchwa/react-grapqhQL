@@ -1,0 +1,117 @@
+.home {
+  min-height: 100vh;
+  max-height: 150vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home > section > p{
+  max-width: 90%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 2vh;
+}
+.home > section > p span{
+  color: var(--color1);
+  margin: 0 5px;
+  
+}
+.home > section > p ul{
+  margin-top: 10px;
+  color: var(--color1);
+}
+.home > section{
+  width: 40%;
+  padding: 30px 0;
+  /* box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px; */
+}
+.home section form{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.authStatus{
+  width: 100%;
+  text-align: center;
+  /* background-color: var(--color1); */
+  color: white;
+  padding: 20px 0;
+}
+.authStatus b{
+  color: white;
+}
+.as-good{
+  background-color: var(--color1);
+}
+.as-bad{
+  background-color: var(--errorColor);
+}
+/*  */
+.otherAuthMsg{
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  /* background-color: aqua; */
+  padding: 10px 0;
+}
+.otherAuthMsg a{
+  cursor: pointer;
+  color: var(--color1);
+  margin-left: 5px;
+}
+/*  */
+
+
+/* .ab-illustration */
+@media screen and (max-width: 512px) {
+  .home > section{
+    width: 90%;
+  }
+}
+
+
+@media screen and (min-width: 512px) and (max-width: 768px){
+  
+}
+
+
+
+
+
+
+
+
+
+@keyframes homeBgPcAnimation {
+  0% {
+    background-size: 40%, 50%, 90%;
+    background-position: 35% 45%, 85% 5%, 90% 50%;
+  }
+  50% {
+    background-size: 40%, 50%, 91%;
+    background-position: 35% 40%, 85% 0%, 90% 45%;
+  }
+  100% {
+    background-size: 40%, 50%, 90%;
+    background-position: 35% 45%, 85% 5%, 90% 50%;
+  }
+}
+
+@keyframes homeBgMobileAnimation {
+  0% {
+    background-size: 40%, 50%, 90%;
+    background-position: 30% 48%, 65% 35%, center;
+  }
+  50% {
+    background-size: 40%, 50%, 91%;
+    background-position: 30% 46%, 65% 33%, center;
+  }
+  100% {
+    background-size: 40%, 50%, 90%;
+    background-position: 30% 48%, 65% 35%, center;
+  }
+}
